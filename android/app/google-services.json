@@ -1,0 +1,9 @@
+{
+  "_comment": "⚠️ هذا ملف توضيحي وليس ملفًا حقيقيًا. يجب تحميل ملف google-services.json الحقيقي من Firebase Console (إعدادات المشروع -> تطبيقات Android) ووضعه هنا بنفس الاسم android/app/google-services.json قبل تشغيل المشروع.",
+  "project_info": {
+    "project_number": "REPLACE_ME",
+    "project_id": "REPLACE_ME"
+  },
+  "client": [],
+  "configuration_version": "1"
+}
