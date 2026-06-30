@@ -29,11 +29,11 @@ class DefaultFirebaseOptions {
   // ⚠️ استبدل القيم التالية بالقيم الحقيقية من Firebase Console
   // (Project Settings -> Your apps -> Android app)
   // أو استخدم أمر flutterfire configure لتوليدها تلقائيًا
-  static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'YOUR_API_KEY',
-    appId: 'YOUR_APP_ID',
-    messagingSenderId: 'YOUR_SENDER_ID',
-    projectId: 'YOUR_PROJECT_ID',
-    storageBucket: 'YOUR_PROJECT_ID.appspot.com',
+ static const FirebaseOptions android = FirebaseOptions(
+    apiKey: 'AIzaSyDKo909KwNJLuLrH37EDorxt2hsFyplyR8',
+    appId: '1:310946824096:android:58e067698e145b8e04aec5',
+    messagingSenderId: '310946824096',
+    projectId: 'elhesa-42b95',
+    storageBucket: 'elhesa-42b95.firebasestorage.app',
   );
 }
